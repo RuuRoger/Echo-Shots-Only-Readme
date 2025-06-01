@@ -12,7 +12,7 @@ You'll need to defeat your enemy with your 12-round chamber pistol. Don't worry,
 
 ## 🎮 Main Features
 
-- 💥 Fast-Paced Comba  
+- 💥 Fast-Paced Combat  
 - ⚡ Reflex-Testing Gameplay  
 - ✨ Highly Addictive 
 
