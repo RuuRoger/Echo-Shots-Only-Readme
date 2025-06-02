@@ -1,6 +1,8 @@
 # Echo Shots 🔫👾
 
-## [Play on itch.io](https://ruuroger.itch.io/echo-shots) ##
+<div align = centrer>
+  ## [Play on itch.io](https://ruuroger.itch.io/echo-shots) ##
+</div>
 
 A little videogame where 12 bullets are your allies to face your enemy. Get extra ammo, but be careful with the ricochets, or they will work against you.
 
