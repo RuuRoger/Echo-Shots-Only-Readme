@@ -1,5 +1,7 @@
 # Echo Shots 🔫👾
 
+## [Play on itch.io](https://ruuroger.itch.io/echo-shots) ##
+
 A little videogame where 12 bullets are your allies to face your enemy. Get extra ammo, but be careful with the ricochets, or they will work against you.
 
 ![Videogame](Echo_shots.gif)
