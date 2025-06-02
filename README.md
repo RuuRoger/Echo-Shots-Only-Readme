@@ -1,7 +1,7 @@
 # Echo Shots 🔫👾
 
 <div align="center">
-   <h1><a href="https://ruuroger.itch.io/echo-shots">Play on itch.io</a></h1>
+   <h1><a href="https://ruuroger.itch.io/echo-shots">Play on itch.io 🎮</a></h1>
 </div>
 
 
