@@ -30,3 +30,5 @@ You'll need to defeat your enemy with your 12-round chamber pistol. Don't worry,
 💻 C#
 
 🖥 Visual Studio / VS Code
+
+🎨 Pixel Art Editor: LibreSprite
