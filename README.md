@@ -29,4 +29,4 @@ You'll need to defeat your enemy with your 12-round chamber pistol. Don't worry,
 
 💻 C#
 
-🖥 Visual Studio / VS Code (IDE)
+🖥 Visual Studio / VS Code
